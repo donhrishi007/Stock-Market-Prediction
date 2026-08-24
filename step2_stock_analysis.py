@@ -19,7 +19,7 @@ Features:
 - Advanced statistical metrics and visualizations
 
 Author: Finance ML Learning Project
-Date: 2025
+Date: 24/08/2026
 """
 
 import pandas as pd
